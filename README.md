@@ -8,3 +8,4 @@ solving Leetcode daily questions.
 - 13/03/24 [2485. Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/description/)
 - 14/03/24 [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/description)
 - 15/03/24 [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description)
+- 16/03/24 [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/description)
