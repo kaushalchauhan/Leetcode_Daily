@@ -10,3 +10,4 @@ solving Leetcode daily questions.
 - 15/03/24 [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description)
 - 16/03/24 [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/description)
 - 17/03/24 [57. Insert Interval](https://leetcode.com/problems/insert-interval/description)
+- 18/03/24 [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description)
