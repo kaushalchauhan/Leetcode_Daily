@@ -11,3 +11,4 @@ solving Leetcode daily questions.
 - 16/03/24 [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/description)
 - 17/03/24 [57. Insert Interval](https://leetcode.com/problems/insert-interval/description)
 - 18/03/24 [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description)
+- 19/03/24 [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/description/?envType=daily-question&envId=2024-03-19)
