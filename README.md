@@ -13,3 +13,4 @@ solving Leetcode daily questions.
 - 18/03/24 [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description)
 - 19/03/24 [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/description/?envType=daily-question&envId=2024-03-19)
 - 20/03/24 [Problem - 1669. Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/description)
+- 21/03/24 [Problem - 206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description)
