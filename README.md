@@ -14,3 +14,4 @@ solving Leetcode daily questions.
 - 19/03/24 [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/description/?envType=daily-question&envId=2024-03-19)
 - 20/03/24 [Problem - 1669. Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/description)
 - 21/03/24 [Problem - 206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description)
+- 22/3/24 [Problem - 234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description)
