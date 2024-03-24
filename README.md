@@ -16,3 +16,4 @@ solving Leetcode daily questions.
 - 21/03/24 [Problem - 206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description)
 - 22/3/24 [Problem - 234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description)
 - 23/3/24 [Problem - 143. Reorder List](https://leetcode.com/problems/reorder-list/description)
+- 24/3/24 [Problem - 287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)
