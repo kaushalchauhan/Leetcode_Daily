@@ -18,3 +18,4 @@ solving Leetcode daily questions.
 - 23/3/24 [Problem - 143. Reorder List](https://leetcode.com/problems/reorder-list/description)
 - 24/3/24 [Problem - 287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)
 - 25/3/24 [Problem - 442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description)
+  -26/3/24 [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description)
