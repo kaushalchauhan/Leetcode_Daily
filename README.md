@@ -6,7 +6,7 @@ solving Leetcode daily questions.
 - 11/03/24 791. Custom Sort String
 - 12/03/24 1171. Remove Zero Sum Consecutive Nodes from Linked List
 - 13/03/24 [2485. Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/description/)
-- 14/03/24 [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/description)
+- 14/03/24 [930. Binary SubArrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/description)
 - 15/03/24 [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description)
 - 16/03/24 [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/description)
 - 17/03/24 [57. Insert Interval](https://leetcode.com/problems/insert-interval/description)
@@ -18,4 +18,6 @@ solving Leetcode daily questions.
 - 23/3/24 [Problem - 143. Reorder List](https://leetcode.com/problems/reorder-list/description)
 - 24/3/24 [Problem - 287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)
 - 25/3/24 [Problem - 442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description)
-  -26/3/24 [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description)
+- 26/3/24 [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description)
+- 29/3/24 [Problem - 2962. Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/description)
+-
