@@ -20,4 +20,4 @@ solving Leetcode daily questions.
 - 25/3/24 [Problem - 442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description)
 - 26/3/24 [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description)
 - 29/3/24 [Problem - 2962. Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/description)
--
+- 31/3/24 [Problem - 2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description)
