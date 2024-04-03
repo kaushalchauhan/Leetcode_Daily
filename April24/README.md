@@ -1,2 +1,3 @@
 - 1/4/24 - [Problem 58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/?envType=daily-question&envId=2024-04-01)
 - 2/4/24 - [Problem - 205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
+- 3/4/24 - [Problem - 79. Word Search](https://leetcode.com/problems/word-search/description)
