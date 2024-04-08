@@ -5,3 +5,4 @@
 - 5/4/24 - [Problem - 1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/description)
 - 6/4/24 - [Problem - 1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description)
 - 7/4/24 - [Problem - 678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/description)
+- 8/4/24 - [Problem - 1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description)
