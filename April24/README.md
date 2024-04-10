@@ -7,3 +7,4 @@
 - 7/4/24 - [Problem - 678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/description)
 - 8/4/24 - [Problem - 1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description)
 - 9/4/24 - [Problem - 2073. Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/description)
+- 10/4/24 - [Problem - 950. Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)
