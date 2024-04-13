@@ -10,3 +10,4 @@
 - 10/4/24 - [Problem - 950. Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)
 - 11/4/24 - [Problem - 402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/description)
 - 12/4/24 - [Problem - 42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description)
+- 13/4/24 - [Problem - 85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description)
