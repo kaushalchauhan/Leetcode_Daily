@@ -14,3 +14,4 @@
 - 14/4/24 - [Problem - 404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description)
 - 15/4/24 - [Problem - 129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description)
 - 16/4/24 - [Problem - 623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/description)
+- 17/4/24 - [Problem - 988. Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/description)
